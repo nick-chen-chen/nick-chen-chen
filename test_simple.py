@@ -10,3 +10,6 @@ def test_simple2():
 def test_simple3():
     time.sleep(5)
     assert 1 == 1
+
+def tes_simple4():
+    assert False
